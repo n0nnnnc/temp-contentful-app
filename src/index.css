@@ -333,7 +333,7 @@ body {
 .hero-title p {
   line-height: 2;
   max-width: 35em;
-  color: var(--grey-600);
+  color: var(--grey-600)
 }
 
 @media (min-width: 992px) {
@@ -390,7 +390,7 @@ PROJECTS
 .project h5 {
   text-align: center;
   padding: 1rem 0;
-  color: var(--grey-700);
+  color: var(--grey-700)
 }
 
 @media (min-width: 768px) {
